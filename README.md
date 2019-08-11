@@ -1,4 +1,4 @@
-# google-app-script-telegram-hellword
+# google app script telegram bot hello word
 
 ```
 function main() {
